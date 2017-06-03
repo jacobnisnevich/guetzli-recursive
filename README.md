@@ -2,7 +2,7 @@
 
 ## About
 
-Recursive Guetzli is a script that runs Google's (perceptual JPEG encoder)[https://github.com/google/guetzli] recursively on each file in a directory.
+Recursive Guetzli is a script that runs Google's [perceptual JPEG encoder](https://github.com/google/guetzli) recursively on each file in a directory.
 
 ## Installation (Mac OS X Instructions)
 
